@@ -3,3 +3,4 @@ made when head is at branch1
 made when head points to branch2
 
 in final 2
+made in final 1
